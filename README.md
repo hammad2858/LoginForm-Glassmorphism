@@ -44,10 +44,9 @@ Web app for generating blogs, captions, and product descriptions using Generativ
 
 ### 📈 Let's Connect and Collaborate!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourusername)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 🔗 [LinkedIn]https://www.linkedin.com/in/hammad-siddiqui-417b05303/)
 - 🌐 [Portfolio Website](https://yourwebsite.com)
-- 📬 [Email](mailto:yourname@example.com)
+- 📬 [Email](mailto:hammadsiddiqui2858@gmail.com)
 
 ---
 
